@@ -18,4 +18,3 @@
 {"dest":["kr01.dgsdhgsgasz.org:36208"],"listen_port":36208,"name":"36208"}
 {"dest":["us01.dgsdhgsgasz.org:36209"],"listen_port":36209,"name":"36209"}
 {"dest":["gb01.dgsdhgsgasz.org:36210"],"listen_port":36210,"name":"36210"}
-{"dest":["gb01.dgsdhgsgasz.org:36210"],"listen_port":36214,"name":"36210"}
